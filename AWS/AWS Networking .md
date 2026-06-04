@@ -1,1 +1,1 @@
-
+LANDING ZONE : A landing zone is basically a ready-made environment aligned to best practices, where you can deploy workloads with guardrails already in place. You could mention it covers governance, security, networking, and identity, so teams don’t start from scratch.
